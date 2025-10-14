@@ -1,9 +1,9 @@
 # Swarm Komutları
 
-## İNDİRME KODU
 ```bash
+# İNDİRME KODU
 cd /root/rl_swarm/keys
 tsz swarm.pem
 
-## YÜKLEME KODU
+# YÜKLEME KODU
 trz /root/rl_swarm/keys/
